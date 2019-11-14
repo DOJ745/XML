@@ -1,0 +1,14 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<SITE>
+
+  <Item>
+    <name>Line Item 1 in name</name>
+    <price>1.25 in price </price>
+  </Item>
+
+  <Item>
+    <name>Line Item 2 in name</name>
+    <price>2.48 in price</price>
+  </Item>
+
+</SITE>
