@@ -3,12 +3,12 @@
 
   <Item>
     <name>Line Item 1 in name</name>
-    <price>1.25 in price </price>
+    <price>1.25 в price </price>
   </Item>
 
   <Item>
-    <name>Line Item 2 in name</name>
-    <price>2.48 in price</price>
+    <name>Line Item 2 в name</name>
+    <price>2.48 в price</price>
   </Item>
 
 </SITE>
