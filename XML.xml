@@ -9,7 +9,7 @@
   <Item>
     <name>Line Item 2 в name</name>
     <price>2.48 в price</price>
-    <Picture1 path = "Armory background.jpg"></Picture1>
+    <Picture1 path = "Armory%20background.jpg"></Picture1>
   </Item>
 
 </SITE>
