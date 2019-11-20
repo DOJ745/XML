@@ -12,7 +12,7 @@
       
       <Pictures>
         <Picture1 path = "Armory%20background.jpg"></Picture1>
-        <Picture2 path = "/Работа%20с%20XML/Picture/Жъжъь.jpg"></Picture2>
+        <Picture2 path = "&frasl;Работа%20с%20XML&frasl;Picture&frasl;Жъжъь.jpg"></Picture2>
       </Pictures>
       
   </Item>
