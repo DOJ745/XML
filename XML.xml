@@ -9,10 +9,7 @@
   <Item>
     <name>Line Item 2 в name</name>
     <price>2.48 в price</price>
-      
-        <Picrures>
-            <Picture1 path = "Armory background.jpg"></Picture1>
-      </Picrures>
+    <Picture1 path = "Armory background.jpg"></Picture1>
   </Item>
 
 </SITE>
