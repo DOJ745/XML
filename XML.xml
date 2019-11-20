@@ -1,4 +1,4 @@
-<?xml version = "1.0" encoding = "UTF-8"?>
+<?xml version = "1.0" encoding = "utf-8"?>
 <SITE>
 
   <Item>
@@ -9,6 +9,10 @@
   <Item>
     <name>Line Item 2 в name</name>
     <price>2.48 в price</price>
+      
+        <Picrures>
+            <Picture1 path = "Armory background.jpg"></Picture1>
+      </Picrures>
   </Item>
 
 </SITE>
