@@ -18,7 +18,7 @@
             </text>
             
             <Longsword>
-                <Picture1 path = "" border = ""></Picture1>
+                <Picture1 path = "/XML%20Test/Armory%20background.jpg" border = ""></Picture1>
                 <Picture2 path = "" border = ""></Picture2>
                 <text></text>
             </Longsword>
